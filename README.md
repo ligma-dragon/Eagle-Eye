@@ -1,9 +1,7 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🦅 **Eagle Eye **
 
-Description of the app ...
+
+Description of the project...
 
 ## Demo App
 
