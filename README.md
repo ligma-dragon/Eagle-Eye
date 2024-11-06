@@ -5,7 +5,7 @@ Description of the project...
 
 ## Demo App
 
-[![Streamlit App](https://eagle--eye.streamlit.app/)
+[![Streamlit App]](https://eagle--eye.streamlit.app/)
 
 ## GitHub Codespaces
 
