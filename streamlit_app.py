@@ -7,7 +7,7 @@ from PIL import Image
 # Load the trained model
 @st.cache(allow_output_mutation=True)
 def load_model():
-    model = CustomCNN()  # Use the custom CNN class you defined earlier
+    model = CNN()  # Use the custom CNN class you defined earlier
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
     model.load_weights("path_to_your_trained_model.h5")  # Make sure to replace this with your actual model path
     return model
