@@ -9,7 +9,7 @@ from PIL import Image
 def load_model():
     model = CNN()  # Use the custom CNN class you defined earlier
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-    model.load_weights("path_to_your_trained_model.h5")  # Make sure to replace this with your actual model path
+    model.load_weights("/Users/adithyamallya/Documents/PESU Academy/CSE/Sem3/PESU I:O/final_assignment/model.keras")  # Make sure to replace this with your actual model path
     return model
 
 model = load_model()
