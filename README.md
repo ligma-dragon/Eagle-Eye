@@ -1,7 +1,8 @@
 # 🦅  Eagle Eye 
 
 
-Description of the project...
+This is a project that we made after a learning neural networks.
+This model is trained to find human/humanoid objects from drone images.(This is one of my first projects so....)
 
 ## Demo App
 
